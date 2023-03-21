@@ -7,4 +7,5 @@ CSS para estilização do mesmo <br>
 JS para adcionar as funcionalidades <br>
 
 Segue algumas imagens do layout <br>
-<img src="" alt="">
+![Calculadora de juros resultado](https://user-images.githubusercontent.com/117482909/226500565-c7081b03-a080-459a-bc5e-fa4d41f5277e.PNG)
+![Calculadora de juros](https://user-images.githubusercontent.com/117482909/226500583-f1a8dede-ec1c-485c-850d-53dc42f18625.PNG)
